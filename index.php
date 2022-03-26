@@ -11,6 +11,13 @@
 <body>
     <!--agregando foto de perfil-->
 <section>
+<div class="card">
+    <div class="head">
+        <div class="img">
+            <img src="" alt="">
+    </div>
+    </div>
+</div>
 
 </section>
     
